@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import Image from "next/image";
 
 const HERO_QUOTES = [
-  "Good product managers are like sponges, abosorbing data to synthesize solutions to real problems that move the needle.",
+  "Good product managers are like sponges, absorbing data to synthesize solutions to real problems that move the needle.",
   "Product managers need to understand subtext, cultural norms, and motive. The data will reflect when you've got it right but may not take you there directly.",
 ];
 
