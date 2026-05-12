@@ -4,8 +4,8 @@ import { useEffect, useState } from "react";
 import Image from "next/image";
 
 const HERO_QUOTES = [
-  "Good product managers synthesize scraps of information to deliver the right solution for the time at hand.",
-  "Product managers need to understand subtext, cultural norms, and motive. The data will reflect when you got it right but may not take you there directly.",
+  "Good product managers are like sponges, abosorbing data to synthesize solutions to real problems that move the needle.",
+  "Product managers need to understand subtext, cultural norms, and motive. The data will reflect when you've got it right but may not take you there directly.",
 ];
 
 export default function Home() {
@@ -57,9 +57,7 @@ export default function Home() {
           Atlanta, GA · Sr. Product Manager at PrimeRevenue
         </p>
         <p className="max-w-xl text-sm text-neutral-700">
-          When payments and working capital products are confusing, real
-          businesses stall. I like taking the flows that feel opaque or
-          high-friction and making them quiet, predictable, and trustworthy.
+          When products are confusing, real businesses stall. I like taking the flows that feel opaque and making them predictable and trustworthy.
         </p>
         </div>
       </section>
